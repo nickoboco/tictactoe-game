@@ -1,4 +1,4 @@
-# Simple Web-Based Tic Tac Toe Game
+# Web Tic Tac Toe Game - VIBE CODING
 
 This is a simple web-based Tic Tac Toe game built with Python using the Flask framework for the backend and HTML, CSS, and JavaScript for the frontend.
 

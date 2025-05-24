@@ -2,6 +2,8 @@
 
 This is a simple web-based Tic Tac Toe game built with Python using the Flask framework for the backend and HTML, CSS, and JavaScript for the frontend.
 
+![image](https://github.com/user-attachments/assets/e6fbcf3f-0105-4551-8d03-340dad3951e7)
+
 ## Features
 
 *   Classic 3x3 Tic Tac Toe board.
